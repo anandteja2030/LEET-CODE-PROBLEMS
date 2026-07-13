@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0219-contains-duplicate-ii](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0682-baseball-game) |
 | [1441-build-an-array-with-stack-operations](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/1441-build-an-array-with-stack-operations) |
@@ -14,6 +15,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0001-two-sum) |
+| [0219-contains-duplicate-ii](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0496-next-greater-element-i) |
 ## Stack
 |  |
@@ -54,4 +56,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
