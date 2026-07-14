@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0013-roman-to-integer) |
 | [0219-contains-duplicate-ii](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0496-next-greater-element-i) |
 ## Stack
@@ -46,6 +47,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0013-roman-to-integer) |
 | [0071-simplify-path](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0071-simplify-path) |
 | [0844-backspace-string-compare](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0844-backspace-string-compare) |
 ## Binary Search
@@ -60,4 +62,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0219-contains-duplicate-ii) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
