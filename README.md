@@ -11,6 +11,7 @@
 | [0496-next-greater-element-i](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0682-baseball-game) |
 | [1441-build-an-array-with-stack-operations](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/1441-build-an-array-with-stack-operations) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,12 +40,14 @@
 | [0682-baseball-game](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0844-backspace-string-compare) |
 | [1441-build-an-array-with-stack-operations](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/1441-build-an-array-with-stack-operations) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0844-backspace-string-compare](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0844-backspace-string-compare) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -69,4 +72,13 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0013-roman-to-integer) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Sorting
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
