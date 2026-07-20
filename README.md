@@ -55,6 +55,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0042-trapping-rain-water) |
 | [0148-sort-list](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0160-intersection-of-two-linked-lists) |
@@ -124,6 +125,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0148-sort-list](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0328-odd-even-linked-list](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0328-odd-even-linked-list) |
