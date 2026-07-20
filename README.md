@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -66,6 +67,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/3312-sorted-gcd-pair-queries) |
 ## Dynamic Programming
@@ -118,6 +120,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
