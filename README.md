@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -50,6 +51,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0042-trapping-rain-water) |
 | [0148-sort-list](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0160-intersection-of-two-linked-lists) |
@@ -133,4 +135,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0002-add-two-numbers) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
