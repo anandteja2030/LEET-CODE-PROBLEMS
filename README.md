@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0042-trapping-rain-water) |
+| [0066-plus-one](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0496-next-greater-element-i) |
@@ -78,6 +79,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0066-plus-one) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
