@@ -98,4 +98,8 @@
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/3312-sorted-gcd-pair-queries) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
