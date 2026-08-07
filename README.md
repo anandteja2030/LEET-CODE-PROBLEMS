@@ -155,24 +155,29 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0098-validate-binary-search-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0098-validate-binary-search-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0098-validate-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0098-validate-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
