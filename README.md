@@ -154,6 +154,7 @@
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -162,4 +163,9 @@
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0701-insert-into-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
