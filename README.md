@@ -14,6 +14,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0682-baseball-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0930-binary-subarrays-with-sum) |
 | [1441-build-an-array-with-stack-operations](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/1441-build-an-array-with-stack-operations) |
@@ -29,6 +30,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0930-binary-subarrays-with-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/3312-sorted-gcd-pair-queries) |
 ## Stack
@@ -123,6 +125,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0930-binary-subarrays-with-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/3312-sorted-gcd-pair-queries) |
 ## Linked List
