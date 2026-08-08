@@ -17,6 +17,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0682-baseball-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1441-build-an-array-with-stack-operations](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/1441-build-an-array-with-stack-operations) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -32,6 +33,7 @@
 | [0496-next-greater-element-i](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/1248-count-number-of-nice-subarrays) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/3312-sorted-gcd-pair-queries) |
 ## Stack
 |  |
@@ -93,6 +95,7 @@
 | [0076-minimum-window-substring](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0219-contains-duplicate-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/1248-count-number-of-nice-subarrays) |
 ## Math
 |  |
 | ------- |
@@ -101,6 +104,7 @@
 | [0009-palindrome-number](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0066-plus-one) |
+| [1248-count-number-of-nice-subarrays](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/1248-count-number-of-nice-subarrays) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -127,6 +131,7 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/1248-count-number-of-nice-subarrays) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/3312-sorted-gcd-pair-queries) |
 ## Linked List
 |  |
