@@ -15,6 +15,7 @@
 | [0219-contains-duplicate-ii](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0682-baseball-game) |
+| [0930-binary-subarrays-with-sum](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0930-binary-subarrays-with-sum) |
 | [1441-build-an-array-with-stack-operations](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/1441-build-an-array-with-stack-operations) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -28,6 +29,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0496-next-greater-element-i) |
+| [0930-binary-subarrays-with-sum](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0930-binary-subarrays-with-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/3312-sorted-gcd-pair-queries) |
 ## Stack
 |  |
@@ -88,6 +90,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0219-contains-duplicate-ii) |
+| [0930-binary-subarrays-with-sum](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0930-binary-subarrays-with-sum) |
 ## Math
 |  |
 | ------- |
@@ -120,6 +123,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0930-binary-subarrays-with-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/3312-sorted-gcd-pair-queries) |
 ## Linked List
 |  |
