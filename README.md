@@ -167,6 +167,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -177,6 +178,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -186,6 +188,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -204,6 +207,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0530-minimum-absolute-difference-in-bst) |
