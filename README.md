@@ -166,6 +166,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0098-validate-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -173,12 +174,14 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0098-validate-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -194,6 +197,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0098-validate-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0938-range-sum-of-bst](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
