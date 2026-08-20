@@ -178,6 +178,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0617-merge-two-binary-trees) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
@@ -192,6 +193,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0617-merge-two-binary-trees) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -207,6 +209,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0617-merge-two-binary-trees) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0938-range-sum-of-bst) |
 ## Binary Search Tree
@@ -230,6 +233,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0617-merge-two-binary-trees) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0938-range-sum-of-bst) |
 ## String Matching
 |  |
