@@ -174,6 +174,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0199-binary-tree-right-side-view) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -206,6 +207,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0199-binary-tree-right-side-view) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -218,6 +220,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0098-validate-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0938-range-sum-of-bst) |
@@ -231,6 +234,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0199-binary-tree-right-side-view) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -253,9 +257,11 @@
 ## Binary Lifting
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anandteja2030/LEET-CODE-PROBLEMS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
